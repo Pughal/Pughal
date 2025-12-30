@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pughal
-- 👀 I’m interested in Machine Learning, Data Science and Software Development..
+- 👀 I’m into Machine Learning, Data Science, and Software Development.
 - 🌱 I’m currently exploring ML algorithms and techniques.
 - 💞️ I’m looking to collaborate on Open Source ML/Data Science related Projects.
 - 📫 How to reach me ...
